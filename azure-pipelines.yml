@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  default: Aisha-selfhosted
+  name: Aisha-selfhosted
 
 steps:
 - task: NodeTool@0
